@@ -1,0 +1,28 @@
+name: pp
+favicon: null
+layout_spectrum: 0.04988235980272293
+typography_spectrum: 0.4484252037946135
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.8466491671279073
+  lightness: 0.9327818537130952
+  saturation: 0.07197461416944861
+  rhythmicContrast: 0.7035262223798782
+purpose: []
